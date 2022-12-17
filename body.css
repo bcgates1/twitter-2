@@ -1,0 +1,121 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.twitter-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    padding-top: 10px;
+
+}
+
+
+@media(max-width:1199px) {
+    .left-bar-col {
+        width: 3rem;
+    }
+
+}
+
+.left-bar-col {
+    top: 5px;
+}
+
+.left-bottom-row {
+    bottom: 10px;
+    width: 100%;
+
+}
+
+
+.left-bar-col {
+
+    height: 100vh;
+}
+
+.twitter-buttton1 span {
+    padding-top: 6px;
+
+}
+
+.center {
+    height: 1495px;
+}
+
+.center-top-row1 {
+
+    width: 100%;
+    top: 1px;
+
+}
+
+.tweet-tag {
+    color: grey;
+}
+
+.footer-row1 {
+
+    font-size: 12px;
+    top: 10%;
+
+}
+
+.center-top-row1,
+.center-top-row2 {
+    border-left: .5px solid grey;
+    border-right: .5px solid grey;
+}
+
+.tweet-feed-col {
+
+    border-bottom: .5px solid grey;
+
+}
+
+.border-div {
+    border: .5px solid grey;
+}
+
+.home-text {
+    margin-left: 10px;
+
+}
+
+.twitter-buttton2 {
+    font-size: .5rem;
+}
+
+.center-top-row1 {
+
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.sports-live-heading {
+    color: grey;
+    font-size: .8rem;
+
+}
+
+.trending-row {
+    color: grey;
+    font-size: small;
+
+}
+
+.search {
+    top: 10px;
+}
+
+.share-1,
+.like-1,
+.re-tweet-1,
+.msg-1,
+.share-2,
+.like-2,
+.re-tweet-2,
+.msg-2 {
+    font-size: 13px;
+}
